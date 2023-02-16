@@ -1,5 +1,7 @@
 # rsocsim - preliminary socsim R package
 
+https://github.com/MPIDR/rsocsim is the new home of this package! Everything new will happen there!
+
 ## Installation
 
 ### From Source
